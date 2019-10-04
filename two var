@@ -12,3 +12,9 @@ int main()
 
     return 0;
 }
+
+
+ //other method
+ a=a*b;
+ b=(a*b)/b;
+ a=(a*b)/b;
